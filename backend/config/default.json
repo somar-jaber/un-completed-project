@@ -1,0 +1,11 @@
+{
+    "jwtPrivateKey": "",
+        "db": {
+            "host": "",
+            "user": "",
+            "password": "",
+            "database": "",
+            "connectTimeout": ""
+        },
+        "listPerPage": "10"
+}

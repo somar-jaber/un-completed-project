@@ -1,0 +1,20 @@
+.upload-page {
+    background-color: var(--primary-color);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.upload-page form {
+
+}
+
+.upload-page form div {
+    margin-bottom: 30px;
+}
+
+.upload-page form label {
+    margin-right: 20px;
+}

@@ -1,0 +1,6 @@
+review the Joi validation in users
+remove unnecessary fiels
+Add authMiddleware for get and get:id but makes it available for users and admins
+translate the comments
+
+remember to remove the trahs file and this note.

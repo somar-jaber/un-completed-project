@@ -1,0 +1,12 @@
+.posts-page {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: var(--primary-color);
+}
+
+.posts-page .post {
+    max-width: 500px;
+    margin-bottom: 30px;
+}
